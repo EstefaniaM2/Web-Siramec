@@ -1,0 +1,40 @@
+
+.alert {
+    width: 100%;
+    background: #ccc;
+    border-radius: 6px;
+    margin: 20px auto;
+
+}
+.alertt {
+    width: 100%;
+    background: #ccc;
+    border-radius: 6px;
+    margin: 20px auto;
+
+}
+.msg_error{
+    color: #e65656;
+}
+.msg_save{
+    color: #126e00;
+}
+.alert p{
+    padding: 10px;
+}
+
+hr{
+    border: 0;
+    background: #ccc;
+    height: 1px;
+    margin: 10px 0;
+    display: block;
+}
+select {
+    display: inline-block;
+    width: 100% ;
+    font-size: 11pt;
+    padding: 5px 20px;
+    border: 1px solid #85929e;
+    border-radius: 5px;
+}

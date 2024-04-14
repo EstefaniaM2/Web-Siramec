@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: cursive;
+}
+#container{
+    margin-top: 120px;
+    box-shadow: 0 0 20px 1px #C02425;
+    display: inline-block;
+    margin-left: 432px;
+    padding: 20px;
+    
+}
+.data_delete{
+    text-align: center;
+    border: 10px 10px 10px #000;
+}
+.data_delete h2 {
+    font-size: 18pt;
+}
+.data_delete span{
+    margin-top: 10px;
+    font-weight:bold;
+    color: #db0f0f;;
+    font-size: 12pt;
+}
+.data_delete .parrafo{
+    margin-top: 10px;
+}
+
+.btn_okk{
+    width: 124px;
+    background:#C02425;
+    color: #fff;
+    font-size: 15px;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 20px;
+}
